@@ -1,0 +1,21 @@
+body{
+    background-color: goldenrod;
+    padding: 20px;
+}
+h1{
+    color: darkolivegreen;
+    text-transform: uppercase;
+}
+img{
+    max-width: 350px;
+    height: auto;
+    border-radius: 50px;
+    align-items: center;
+    object-fit: cover;
+    margin-top: auto;
+    padding-left: 220px;
+    filter: drop-shadow();
+    cursor: all-scroll;
+    box-shadow: 5px 5px 10px rgba(red, green, blue, alpha);
+    transition: transform 0.3s ease;
+}
